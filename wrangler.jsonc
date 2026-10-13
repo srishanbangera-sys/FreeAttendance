@@ -2,6 +2,6 @@
     "name": "nexus-fest-prank",
     "compatibility_date": "2026-10-13",
     "assets": {
-        "directory": "./"
+        "directory": "./NexusFestAD/public"
     }
 }
