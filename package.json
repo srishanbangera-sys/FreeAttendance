@@ -1,0 +1,15 @@
+{
+  "name": "nexusfestad",
+  "version": "1.0.0",
+  "description": "> **Scan. Get rickrolled. Get registered.** 😭",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "wrangler": "^4.86.0"
+  }
+}
